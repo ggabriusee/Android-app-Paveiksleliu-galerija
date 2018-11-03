@@ -1,4 +1,4 @@
-package com.example.gabrius.visma;
+package com.example.gabrius.app;
 
 import org.junit.Test;
 
